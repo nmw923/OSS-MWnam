@@ -3,6 +3,6 @@
 int main()
 {
   printf("first OSS code\n");
-  printf("second OSS conde\n");
+  printf("third OSS conde\n");
   return 0;
 }
